@@ -15,7 +15,7 @@
 //	Input :			Integer
 //	Output :		Integer
 //	Description :		It is used to return Addition of given number factors
-//	Date :			27/06/2021
+//	Date :			26/06/2021
 //	Author :		Omkar Anil Jadhav
 //
 ////////////////////////////////////////////////////////////////////////////////////
