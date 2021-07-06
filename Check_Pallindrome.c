@@ -17,7 +17,7 @@
 //  Input :            Integer
 //  Output :           boolean
 //  Description :      It is used to Check number is Pallindrome or Not
-//  Date :             04/07/2021
+//  Date :             07/07/2021
 //  Author :           Omkar Anil Jadhav
 //
 /////////////////////////////////////////////////////////////
