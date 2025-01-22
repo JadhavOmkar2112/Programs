@@ -10,7 +10,7 @@
 
 #include<stdio.h>
 #include<stdbool.h>
-
+// Run 
 /////////////////////////////////////////////////////////////
 //
 //  Function name:     CheckPallindrome
