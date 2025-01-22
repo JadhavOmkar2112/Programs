@@ -1,13 +1,15 @@
-// Accept number from user and return the largest Digit from given number
+/*
+   Accept number from user and return the largest Digit from given number
 
-// Input : 121
-// Output : 2
+   Input : 121
+   Output : 2
 
-// Input : 4502
-// Output : 5
+   Input : 4502
+   Output : 5
 
-// Input : 7557
-// Output : 7
+   Input : 7557
+   Output : 7
+*/
 
 #include<stdio.h>
 #include<stdbool.h>
